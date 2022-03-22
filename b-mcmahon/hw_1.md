@@ -1,4 +1,4 @@
-##Initial Exercise for PM Mar 21
+## Initial Exercise for PM Mar 21
 
 **1. List one goal for between now and Labor Day '22**
 
