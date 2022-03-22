@@ -10,13 +10,7 @@
   
 **3. Choose a role for your capstone**
 
-*DA Data Analyst*
-
 **_DS Data Scientist_**
-
-*DE Data Engineer
-
-AAD Analytic Application Developer*
 
 **4. Find an initial dataset you want to use for capstone**
 
