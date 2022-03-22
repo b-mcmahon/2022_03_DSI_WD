@@ -14,7 +14,7 @@
 
 **4. Find an initial dataset you want to use for capstone**
 
-_https://www.kaggle.com/datasets/laurinbrechter/supply-chain-data_
+_https://www.usitc.gov/research_and_analysis/import_monitoring_tool/index.html_
 
 **5. List first idea of goals for capstone**
 
