@@ -10,7 +10,7 @@
   
 **3. Choose a role for your capstone**
 
-**_DS Data Scientist_**
+_DS Data Scientist_
 
 **4. Find an initial dataset you want to use for capstone**
 
